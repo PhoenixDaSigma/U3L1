@@ -1,0 +1,3 @@
+1. While loops loop through a group of things, but then just quit. Recursion calls itself, and has to finish every iteration, so it goes in both directions.
+
+2. Recursion is not a substitute for while loops because while they appear similar, recursion eats up more memory by remembering every iteration so it can come back to it, which can cause unexpected errors.
